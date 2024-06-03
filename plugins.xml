@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Procesa Entrega IBD(Processing)" version="29/05/2024">
+  <pyqgis_plugin name="Procesa Entrega IBD(Processing)" version="1.0">
     <description>Procesamiento de imágenes de una entrega</description>
     <about>Descripción detallada del complemento</about>
-    <version>29/05/2024</version>
+    <version>1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>Jorge Parada</author_name>
     <download_url>https://github.com/JorgeParada4/plugins/raw/main/procesa_entrega_ibd_processing.zip</download_url>
