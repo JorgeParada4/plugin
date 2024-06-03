@@ -6,7 +6,7 @@
     <version>29/05/2024</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <author_name>Jorge Parada</author_name>
-    <download_url>https://github.com/JorgeParada4/plugin/blob/88c6a10dad5cb877a0d76386488a8fea3eb8c607/procesa_entrega_ibd_processing.zip</download_url>
+    <download_url>https://github.com/JorgeParada4/plugins/raw/main/procesa_entrega_ibd_processing.zip</download_url>
   </pyqgis_plugin>
   <!-- Agrega más bloques <pyqgis_plugin> para otros complementos -->
 </plugins>
