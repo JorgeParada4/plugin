@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Procesa Entrega IBD(Processing)
+qgisMinimumVersion=3.0
+description=Procesamiento de imágenes de una entrega
+version=29/05/2024
+author=Jorge Parada
+email=jorge.parada@inegi.org.mx
+
+about=Analiza y valida que las imágenes en la ruta de entrega cumplan con: Numero de bandas, sistema de referencia, formato de fecha correcto, que se pueda abrir la imagen y que se puedan identificar sus características. Identifica cuales formatos de la malla rHEALPix nivel 7 se completan con las imágenes de la entrega. Realiza el recorte y construye las imágenes con resolución original.
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=yes
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=http://homepage
+category=Analysis
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Raster
+
+# If the plugin can run on QGIS Server.
+server=False
+
