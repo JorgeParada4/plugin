@@ -6,7 +6,7 @@
 name=Procesa Entrega IBD(Processing)
 qgisMinimumVersion=3.0
 description=Procesamiento de imágenes de una entrega
-version=29/05/2024
+version=02/07/2024
 author=Jorge Parada
 email=jorge.parada@inegi.org.mx
 
