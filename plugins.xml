@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin name="Procesa Entrega IBD(Processing)" version="02/07/2024">
-    <description>dProcesamiento de imágenes de una entrega</description>
+    <description>Procesamiento de imágenes de una entrega</description>
     <about>Analiza y valida que las imágenes en la ruta de entrega cumplan con: Numero de bandas, sistema de referencia, formato de fecha correcto, que se pueda abrir la imagen y que se puedan identificar sus características. Identifica cuales formatos de la malla rHEALPix nivel 7 se completan con las imágenes de la entrega. Realiza el recorte y construye las imágenes con resolución original.</about>
     <version>02/07/2024</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
