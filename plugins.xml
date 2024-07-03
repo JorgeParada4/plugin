@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin name="Procesa Entrega IBD(Processing)" version="02/07/2024">
-    <description>Procesamiento de imágenes dddddde una entrega</description>
+    <description>Procesamiento de imágenes de una entrega</description>
     <about>Descripción detallada del complemento</about>
     <version>02/07/2024</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
